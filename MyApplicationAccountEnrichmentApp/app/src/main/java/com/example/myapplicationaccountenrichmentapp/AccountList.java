@@ -19,7 +19,6 @@ public class AccountList extends AppCompatActivity {
         accolite = findViewById(R.id.textView10);
         accenture = findViewById(R.id.textView9);
         b1 = findViewById(R.id.button2);
-        b2 = findViewById(R.id.button4);
 
         accolite.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -42,14 +41,6 @@ public class AccountList extends AppCompatActivity {
             public void onClick(View view) {
                 Intent i = new Intent(AccountList.this, AddContactActivity.class);
                 AccountList.this.startActivity(i);
-            }
-        });
-
-        b2.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent it = new Intent(AccountList.this, ExploreContact.class);
-                AccountList.this.startActivity(it);
             }
         });
 
