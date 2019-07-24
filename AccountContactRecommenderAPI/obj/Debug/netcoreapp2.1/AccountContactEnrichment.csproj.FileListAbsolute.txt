@@ -1,0 +1,14 @@
+C:\repos\AccountContactEnrichment\bin\Debug\netcoreapp2.1\AccountContactEnrichment.deps.json
+C:\repos\AccountContactEnrichment\bin\Debug\netcoreapp2.1\AccountContactEnrichment.runtimeconfig.json
+C:\repos\AccountContactEnrichment\bin\Debug\netcoreapp2.1\AccountContactEnrichment.runtimeconfig.dev.json
+C:\repos\AccountContactEnrichment\bin\Debug\netcoreapp2.1\AccountContactEnrichment.dll
+C:\repos\AccountContactEnrichment\obj\Debug\netcoreapp2.1\AccountContactEnrichment.csprojAssemblyReference.cache
+C:\repos\AccountContactEnrichment\obj\Debug\netcoreapp2.1\AccountContactEnrichment.csproj.CoreCompileInputs.cache
+C:\repos\AccountContactEnrichment\obj\Debug\netcoreapp2.1\AccountContactEnrichment.RazorAssemblyInfo.cache
+C:\repos\AccountContactEnrichment\obj\Debug\netcoreapp2.1\AccountContactEnrichment.RazorAssemblyInfo.cs
+C:\repos\AccountContactEnrichment\obj\Debug\netcoreapp2.1\AccountContactEnrichment.AssemblyInfoInputs.cache
+C:\repos\AccountContactEnrichment\obj\Debug\netcoreapp2.1\AccountContactEnrichment.AssemblyInfo.cs
+C:\repos\AccountContactEnrichment\obj\Debug\netcoreapp2.1\AccountContactEnrichment.RazorTargetAssemblyInfo.cache
+C:\repos\AccountContactEnrichment\bin\Debug\netcoreapp2.1\AccountContactEnrichment.pdb
+C:\repos\AccountContactEnrichment\obj\Debug\netcoreapp2.1\AccountContactEnrichment.dll
+C:\repos\AccountContactEnrichment\obj\Debug\netcoreapp2.1\AccountContactEnrichment.pdb
